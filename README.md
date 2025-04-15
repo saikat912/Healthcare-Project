@@ -28,7 +28,16 @@ This project focuses on the multi-class classification of medical test results. 
 | `data/`                    | Directory for raw and processed datasets                 |
 | `models/`                  | Saved model files and checkpoints                        |
 | `results/`                 | Output metrics, plots, and evaluation reports            |
+| `assets/`                  | Directory for images and other assets                    |
 | `README.md`                | Project documentation (this file)                        |
+
+---
+
+## **Example Visualization**
+
+Here's an example visualization from our Exploratory Data Analysis (EDA) phase:
+
+![Example Image](assets/4ff7b1b4-d75a-4829-9089-1866a78ce7ba.png)
 
 ---
 
@@ -60,7 +69,7 @@ This project focuses on the multi-class classification of medical test results. 
 ## **How to Run**
 
 1. **Clone the Repository**
-   ```bash
+   ```
    git clone 
    cd 
    ```
@@ -68,12 +77,12 @@ This project focuses on the multi-class classification of medical test results. 
 2. **Install Dependencies**
    - Ensure you have Python 3.7+ and Jupyter Notebook installed.
    - Install required packages:
-     ```bash
+     ```
      pip install -r requirements.txt
      ```
 
 3. **Launch the Notebook**
-   ```bash
+   ```
    jupyter notebook Healthcare-Project.ipynb
    ```
 
@@ -112,4 +121,15 @@ This project is licensed under the MIT License.
 ## **Contact**
 
 For questions or collaboration, please contact the project maintainer.
+
+---
+
+*Empowering healthcare with data-driven intelligence.*
+```
+
+**Key points:**
+
+*   **Image Path:**  I've used the path `assets/4ff7b1b4-d75a-4829-9089-1866a78ce7ba.png`.  Make sure this path is correct relative to the location of your `README.md` file.  If the image is in a different folder, adjust the path accordingly.
+*   **Folder Creation:** I added `assets/` in the Project Structure.
+*   **Alt Text:**  It's good practice to add descriptive alt text to your images for accessibility.  I've used "Example Image", but you should replace this with something more descriptive of the actual image.
 
